@@ -20,6 +20,7 @@
 
 <div align="center" style="display: flex; justify-content: center;">
   <a href="https://github.com/jpnetto">
+    ![jpnetto's Stats](https://github-readme-stats.vercel.app/api?username=jpnetto&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
     <img height="195px" src="![jpnetto's Stats](https://github-readme-stats.vercel.app/api?username=jpnetto&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)"/>
     <img height="195px" src="![jpnetto's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jpnetto&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)"/>
   </a>
